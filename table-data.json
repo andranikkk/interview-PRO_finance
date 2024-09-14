@@ -1,0 +1,202 @@
+[
+  {
+    "id": "1",
+    "barcode": "321564897321",
+    "subject": "Одежда",
+    "supplierCode": "Брюки",
+    "size": "50",
+    "available": "6",
+    "totalQuantity": "32",
+    "inTransit": "4"
+  },
+  {
+    "id": "2",
+    "barcode": "321564897321",
+    "subject": "Одежда",
+    "supplierCode": "Брюки",
+    "size": "50",
+    "available": "6",
+    "totalQuantity": "32",
+    "inTransit": "4"
+  },
+  {
+    "id": "3",
+    "barcode": "321564897321",
+    "subject": "Одежда",
+    "supplierCode": "Брюки",
+    "size": "50",
+    "available": "6",
+    "totalQuantity": "32",
+    "inTransit": "4"
+  },
+  {
+    "id": "4",
+    "barcode": "321564897321",
+    "subject": "Одежда",
+    "supplierCode": "Брюки",
+    "size": "50",
+    "available": "6",
+    "totalQuantity": "32",
+    "inTransit": "4"
+  },
+  {
+    "id": "5",
+    "barcode": "321564897321",
+    "subject": "Одежда",
+    "supplierCode": "Брюки",
+    "size": "50",
+    "available": "6",
+    "totalQuantity": "32",
+    "inTransit": "4"
+  },
+  {
+    "id": "6",
+    "barcode": "321564897321",
+    "subject": "Одежда",
+    "supplierCode": "Брюки",
+    "size": "50",
+    "available": "6",
+    "totalQuantity": "32",
+    "inTransit": "4"
+  },
+  {
+    "id": "7",
+    "barcode": "321564897321",
+    "subject": "Одежда",
+    "supplierCode": "Брюки",
+    "size": "50",
+    "available": "6",
+    "totalQuantity": "32",
+    "inTransit": "4"
+  },
+  {
+    "id": "8",
+    "barcode": "321564897321",
+    "subject": "Одежда",
+    "supplierCode": "Брюки",
+    "size": "50",
+    "available": "6",
+    "totalQuantity": "32",
+    "inTransit": "4"
+  },
+  {
+    "id": "9",
+    "barcode": "321564897321",
+    "subject": "Одежда",
+    "supplierCode": "Брюки",
+    "size": "50",
+    "available": "6",
+    "totalQuantity": "32",
+    "inTransit": "4"
+  },
+  {
+    "id": "10",
+    "barcode": "321564897321",
+    "subject": "Одежда",
+    "supplierCode": "Брюки",
+    "size": "50",
+    "available": "6",
+    "totalQuantity": "32",
+    "inTransit": "4"
+  },
+  {
+    "id": "11",
+    "barcode": "321564897321",
+    "subject": "Одежда",
+    "supplierCode": "Брюки",
+    "size": "50",
+    "available": "6",
+    "totalQuantity": "32",
+    "inTransit": "4"
+  },
+  {
+    "id": "12",
+    "barcode": "321564897321",
+    "subject": "Одежда",
+    "supplierCode": "Брюки",
+    "size": "50",
+    "available": "6",
+    "totalQuantity": "32",
+    "inTransit": "4"
+  },
+  {
+    "id": "13",
+    "barcode": "321564897321",
+    "subject": "Одежда",
+    "supplierCode": "Брюки",
+    "size": "50",
+    "available": "6",
+    "totalQuantity": "32",
+    "inTransit": "4"
+  },
+  {
+    "id": "14",
+    "barcode": "321564897321",
+    "subject": "Одежда",
+    "supplierCode": "Брюки",
+    "size": "50",
+    "available": "6",
+    "totalQuantity": "32",
+    "inTransit": "4"
+  },
+  {
+    "id": "15",
+    "barcode": "321564897321",
+    "subject": "Одежда",
+    "supplierCode": "Брюки",
+    "size": "50",
+    "available": "6",
+    "totalQuantity": "32",
+    "inTransit": "4"
+  },
+  {
+    "id": "16",
+    "barcode": "321564897321",
+    "subject": "Одежда",
+    "supplierCode": "Брюки",
+    "size": "50",
+    "available": "6",
+    "totalQuantity": "32",
+    "inTransit": "4"
+  },
+  {
+    "id": "17",
+    "barcode": "321564897321",
+    "subject": "Одежда",
+    "supplierCode": "Брюки",
+    "size": "50",
+    "available": "6",
+    "totalQuantity": "32",
+    "inTransit": "4"
+  },
+  {
+    "id": "18",
+    "barcode": "321564897321",
+    "subject": "Одежда",
+    "supplierCode": "Брюки",
+    "size": "50",
+    "available": "6",
+    "totalQuantity": "32",
+    "inTransit": "4"
+  },
+  {
+    "id": "19",
+    "barcode": "321564897321",
+    "subject": "Одежда",
+    "supplierCode": "Брюки",
+    "size": "50",
+    "available": "6",
+    "totalQuantity": "32",
+    "inTransit": "4"
+  },
+  {
+    "id": "20",
+    "barcode": "321564897321",
+    "subject": "Одежда",
+    "supplierCode": "Брюки",
+    "size": "50",
+    "available": "6",
+    "totalQuantity": "32",
+    "inTransit": "4"
+  }
+]
